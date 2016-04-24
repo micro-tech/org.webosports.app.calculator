@@ -1,0 +1,11 @@
+{
+  "filename": "App.js",
+  "main": "App.js",
+  "styles": [
+    "../css/*.less",
+    "../css/*.css"
+  ],
+  "assets": [
+    "../assets/*"
+  ]
+}

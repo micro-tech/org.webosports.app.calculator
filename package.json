@@ -1,0 +1,13 @@
+{
+  "name": "Calculator 2.7",
+  "assets": [
+    "appinfo.json",
+    "icon.png"
+  ],
+  "version": "2.7.0",
+  "devAssets": [],
+  "styles": [],
+  "moduleDir": "src",
+  "main": "index.js",
+  "filename": "index.js"  
+}
